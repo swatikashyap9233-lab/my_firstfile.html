@@ -1,0 +1,70 @@
+body{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 30px;
+        background-color: white;
+    }
+
+    .output{
+        margin-left: 10px;
+    }
+
+    .frame{
+        border: 2px solid;
+        padding: 3px;
+        box-sizing: border-box;
+        margin: 10px;
+        background-color: white;
+        font-size: 13px;
+    }
+
+    .titlebar{
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 10px;
+    }
+
+    .product{
+        width: 350px;
+        margin: auto;
+        background: #fff;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: left;
+    }
+
+    .product img{
+        width: 100%;
+        border-radius: 10px;
+    }
+
+    .para{
+        color: gray;
+    }
+
+    .price-tag{
+        color: green;
+        font-size: 15px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    .old-price{
+        font-size: 15px;
+        text-decoration: line-through;
+        color: gray;
+        margin-left: 5px;
+    }
+
+    .cart{
+        background-color: blue;
+        color: white;
+        cursor: pointer;
+        text-align: center;
+        padding: 8px;
+        font-size: medium;
+        border-radius: 5px;
+        width: 100%;
+        border: none;
+        margin-top: 10px;
+    }

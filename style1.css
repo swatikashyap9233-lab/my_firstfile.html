@@ -1,0 +1,50 @@
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            padding: 30px;
+            background-color: white;
+        }
+        .output{
+            margin-left: 10px;
+        }
+        .frame{
+            border: 2px solid;
+            padding: 3px;
+            box-sizing: border-box;
+            margin: 10px;
+            background-color: white;
+            font-size: 13px;
+        }
+        .title .website{
+            color: red;
+        }
+        .info{
+            margin: 15px 0;
+        }
+        .info .content{
+            display: inline-block;
+            margin-right: 8px;
+            text-decoration: none;
+            color: black;
+            border: 1px solid #333;
+            padding: 6px 10px;
+            background-color: cornflowerblue;
+        }
+        .info .content2{
+            padding: 6px 10px;
+            background-color: chartreuse;
+            float: left;
+            margin-right: 8px;
+            text-decoration: none;
+            color: black;
+            border: 1px solid #333;
+        }
+        .clear{
+            clear: both;
+        }
+        .titlebar{
+            display: block;
+            text-align: center;
+            padding: 10px;
+            background-color: gray;
+            font-weight: 600;
+        }
